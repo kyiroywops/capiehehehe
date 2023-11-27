@@ -1,0 +1,31 @@
+# Xcode specific
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+xcuserdata
+*.xcworkspace
+!default.xcworkspace
+DerivedData/
+*.hmap
+*.ipa
+
+# JUCE specific
+Builds/
+JuceLibraryCode/
+
+# macOS specific
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
+
+# Python bytecode
+*.py[cod]
+
